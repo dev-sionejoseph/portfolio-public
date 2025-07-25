@@ -1,0 +1,47 @@
+[
+  {
+    "id": "project1",
+    "title": "JBLS",
+    "repo": "https://github.com/1-team-to-rule-all/inventory-app",
+    "explanation": "JBLS is an inventory application where Users browse, manage, update, and even search items by different properties such as the name, price, description, and category.",
+    "skills": "React, Sequelize, PostgreSQL, Node.js, J-Unit Testing ",
+    "contribution": "I was responsible for the the Item model, the GET routes, the allItems frontend view, as well as the css styling.",
+    "takeaways": "Being that this was our first group project, it illustrated very early on how important proper planning and structuring are to a project. A lot of the issues we ran into had to do with everyone having entirely different methods, habits and structures they'd become used to while working solo. This led to some conflicts at merge that could have been avoided if we were all more experienced with setting guidelines and best-practices before heading off to work our separate contributions. It taught me a lot about how even the most minute details can result in two fully functioning branches merging into a disaster."
+  },
+  {
+    "id": "project2",
+    "title": "Enigmate V1",
+    "repo": "https://github.com/dev-sionejoseph/enigmate",
+    "explanation": "Enigmate is a web application that lets users create and manage encrypted messages using custom ciphers. Users can generate unique encryption keys, share them with others, and revoke them when needed, ensuring that only intended recipients can read the messages. Without access to the correct cipher, messages remain encrypted and unreadable, providing secure communication.",
+    "skills": "Spring Boot REST API, React with Vite, PostgreSQL, Render",
+    "contribution": "As the sole contributor, I conceptualized, designed and built the entire app",
+    "takeaways": "This project showed me that my idea of an 'MVP' was far and away larger than it should be, leading to unrealistic time management. I had so many things I wanted to do with it, but I learned that I was estimating time based on how long it takes to type code versus how long it takes to actually troubleshoot it. It started my journey to better project scoping that would continue throughout my entire apprenticeship."
+  },
+  {
+    "id": "project3",
+    "title": "Enigmate V2",
+    "repo": "https://github.com/dev-sionejoseph/enigmate-v2",
+    "explanation": "In this second shot at making my Enigmate vision come to life, I used the allotted time in our backend module to implement more security measures and develop a robust backend to realize even more of the frontend functionality that was previously only hardcoded or dummy data in V1.",
+    "skills": "Spring Boot REST API, BcryptUtil, Spring Security, PostgreSQL, Render",
+    "contribution": "As the sole contributor, I conceptualized, designed and built the entire project",
+    "takeaways": "While my project planning skills were most definitely improving by this point, I noticed that I still had some room for improvement. I got a deeper look at just how unrealsttic my expectations for V1 were, as here I was on V2 and every feature just wasn't feasible. I learned to pivot my plans based on time passed while still delivering a product I could be proud of."
+  },
+  {
+    "id": "project4",
+    "title": "VestWise",
+    "repo": "https://github.com/Vest-Wise/VestWise",
+    "explanation": "VestWise is a dynamic frontend application designed to provide users with a comprehensive view of Verizon's performance in the stock market. It centralizes current social and financial data, empowering users to stay informed and potentially make more insightful investment decisions related to Verizon.",
+    "skills": "Vite React, React Bootstrap, React Date Picker, ReCharts, Polygon.io",
+    "contribution": "I was responsible for the Chart component, the DatePicker component, the wireframe, and the relevant styling",
+    "takeaways": "This project illustrated just how far I'd come with understanding how to estimate the time things will take, as well as my ability to make cuts where necessary. I ran into quite a few unexpected issues, bugs, and paywalls with our chosen API and other packages/tools. I spent so many hours scouring documentation and was very proud to be able to push through any obstacle we encountered."
+  },
+  {
+    "id": "project5",
+    "title": "Dreamwell",
+    "repo": "https://github.com/dev-sionejoseph/dreamwell-public",
+    "explanation": "DreamWell is a full-stack journal app where users can log and manage their dreams. Built with a modern tech stack for performance, scalability, and ease of use. In it's current version, users are able to add, tag, and delete their dreams.",
+    "skills": "Vite React, Typescript, Tailwind",
+    "contribution": "As the sole contributor, I conceptualized, designed and built the entire app",
+    "takeaways": "This project caused me the least trouble and stress. As my fifth and final major project, I attribute this to my implementation of previous lessons I've learned on properly scoping and scaling projects in a time crunch."
+  }
+]
