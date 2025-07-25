@@ -14,16 +14,16 @@
     "repo": "https://github.com/dev-sionejoseph/enigmate",
     "explanation": "Enigmate is a web application that lets users create and manage encrypted messages using custom ciphers. Users can generate unique encryption keys, share them with others, and revoke them when needed, ensuring that only intended recipients can read the messages. Without access to the correct cipher, messages remain encrypted and unreadable, providing secure communication.",
     "skills": "Spring Boot REST API, React with Vite, PostgreSQL, Render",
-    "contribution": "As the sole contributer, I conceptualized, designed and built the entire app",
-    "takeaways": "This project showed me that my idea of an 'MVP' was far and away larger than it should be, leading to unrealistic time management. I had so many things I wanted to do with it, but I learned that I was estimating time based on how long it takes to type code versus how long it takes to actually troubleshoot it. It started my journey to betting project scoping that would continue throughout my entire apprenticeship."
+    "contribution": "As the sole contributor, I conceptualized, designed and built the entire app",
+    "takeaways": "This project showed me that my idea of an 'MVP' was far and away larger than it should be, leading to unrealistic time management. I had so many things I wanted to do with it, but I learned that I was estimating time based on how long it takes to type code versus how long it takes to actually troubleshoot it. It started my journey to better project scoping that would continue throughout my entire apprenticeship."
   },
   {
     "id": "project3",
     "title": "Enigmate V2",
     "repo": "https://github.com/dev-sionejoseph/enigmate-v2",
-    "explanation": "In this second shot at making my Enigmate vision come to life, I used the alloted time in our backend module to implement more security measures and develop a robust backend to realize even more of the frontend functionality that was previously only hardcoded or dummy data in V1.",
+    "explanation": "In this second shot at making my Enigmate vision come to life, I used the allotted time in our backend module to implement more security measures and develop a robust backend to realize even more of the frontend functionality that was previously only hardcoded or dummy data in V1.",
     "skills": "Spring Boot REST API, BcryptUtil, Spring Security, PostgreSQL, Render",
-    "contribution": "As the sole contributer, I conceptualized, designed and built the entire project",
+    "contribution": "As the sole contributor, I conceptualized, designed and built the entire project",
     "takeaways": "While my project planning skills were most definitely improving by this point, I noticed that I still had some room for improvement. I got a deeper look at just how unrealsttic my expectations for V1 were, as here I was on V2 and every feature just wasn't feasible. I learned to pivot my plans based on time passed while still delivering a product I could be proud of."
   },
   {
@@ -41,7 +41,7 @@
     "repo": "https://github.com/dev-sionejoseph/dreamwell-public",
     "explanation": "DreamWell is a full-stack journal app where users can log and manage their dreams. Built with a modern tech stack for performance, scalability, and ease of use. In it's current version, users are able to add, tag, and delete their dreams.",
     "skills": "Vite React, Typescript, Tailwind",
-    "contribution": "As the sole contributer, I conceptualized, designed and built the entire app",
+    "contribution": "As the sole contributor, I conceptualized, designed and built the entire app",
     "takeaways": "This project caused me the least trouble and stress. As my fifth and final major project, I attribute this to my implementation of previous lessons I've learned on properly scoping and scaling projects in a time crunch."
   }
 ]
