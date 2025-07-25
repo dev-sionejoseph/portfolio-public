@@ -10,14 +10,16 @@ export default function Project({ project }: ProjectProps) {
   return (
     <div className="text-left space-y-4">
       <h2 className="text-2xl font-bold text-gray-800">{title}</h2>
-      <a
-        href={repo}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="text-blue-500 hover:underline"
-      >
-        View Repository
-      </a>
+      <div>
+        <a
+          href={repo}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-500 hover:underline"
+        >
+          View Repository
+        </a>
+      </div>
       <div>
         <h3 className="font-semibold text-gray-700">Project Explanation & Features:</h3>
         <p className="text-gray-600">{explanation}</p>
