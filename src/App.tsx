@@ -16,7 +16,7 @@ export default function App() {
 
   return (
     <ProjectProvider>
-      <Router>
+      <Router basename="/portfolio-public">
         <div className="min-h-screen flex flex-col items-center bg-gradient-to-br from-purple-500 to-blue-500 text-white">
   
           <h1 className="text-4xl font-bold mt-6 mb-4">Sione Across the Multiverse</h1>

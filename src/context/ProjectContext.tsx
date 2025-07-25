@@ -13,7 +13,7 @@ export function ProjectProvider({ children }: { children: ReactNode }) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/projects.json")
+    fetch("/portfolio-public/projects.json")
       .then((res) => res.json())
       .then((data) => {
         setProjects(data);
